@@ -216,7 +216,7 @@ Visitors can take boat tours, see floating houses, and learn about the daily lif
         name: 'Siem Reap',
         khmerName: 'សៀមរាប',
         tagline: 'Gateway to the Angkor temples',
-        coverImg: "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2021-06-14-03-53-17am.jpg",
+        coverImg: "https://angkorwildlife.com/wp-content/uploads/2024/08/12-must-visit-places-to-visit-in-siem-reap-cambodia-1.jpg",
         detailImg: "https://afar.brightspotcdn.com/dims4/default/8af48b4/2147483647/strip/false/crop/3000x1997+0+0/resize/1486x989!/quality/90/?url=https%3A%2F%2Fk3-prod-afar-media.s3.us-west-2.amazonaws.com%2Fbrightspot%2F34%2F8c%2F0a3f548947909b5b8d79b935b03f%2Ftravelguides-siemreap-guitarphotographer-shutterstock.jpg",
         places: [
             {
