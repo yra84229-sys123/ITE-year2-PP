@@ -327,7 +327,7 @@ Tourist Activities:
         khmerName: 'បាត់ដំបង',
         tagline: 'Cambodia\'s rice bowl with colonial charm',
         coverImg: "https://www.asiakingtravel.com/images/thumbs/2025/05/20099/484485091-954347766728937-8962258597941090426-n_1296x730xcrop.webp",
-        detailImg: "https://www.cambodiatourpackage.com/uploads/tours/images/siem-reap-battambang-phnom-penh.jpg",
+        detailImg: "https://vietnamdecouverte.com/pic/blog/images/3%20(1)(4).jpg",
         places: [
             {
                 id: 'bamboo-train',
