@@ -4,7 +4,7 @@ const provincesData = [
         name: 'Takeo',
         khmerName: 'តាកែវ',
         tagline: 'The Cradle of Khmer Civilization',
-        coverImg: "https://tourismcambodia.org/storage/uploads/contents/entryform/ministry-of-tourism-cambodia-2020-05-17-04-47-35am1589690857-3922.jpg",
+        coverImg: "https://www.asiakingtravel.com/cuploads/images/Cambodia/takeo-1.jpg",
         detailImg: "https://cache2.travelfish.org/b/assets/2015/gallery/small/gallery_location_small_390_1486183887.jpg",
         places: [
             {
@@ -64,7 +64,7 @@ Tourist activity:
 • Boat rides
 • Picnic in huts
 • Swimming and relaxing`,
-                img: 'https://vodenglish.news/wp-content/uploads/2022/06/2022-06-24-bati-wiki-1024x640.jpg'
+                img: 'https://d122axpxm39woi.cloudfront.net/images/destinations/origin/5d246cc6bf93e.jpg'
             },
             {
                 id: 'takeo-museum',
@@ -111,7 +111,7 @@ Visitors explore the building and learn about Cambodia’s recent historical eve
         name: 'Pursat',
         khmerName: 'ពោធិ៍សាត់',
         tagline: 'Nature and Landscapes',
-        coverImg: "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2020-05-02-09-11-13am.jpg",
+        coverImg: "https://cambodiaangkortour.com/wp-content/uploads/2025/02/pursat.jpg",
         detailImg: "https://haivenu-vietnam.com/wp-content/uploads/2024/07/Pursat.png",
         places: [
             {
@@ -326,7 +326,7 @@ Tourist Activities:
         name: 'Battambang',
         khmerName: 'បាត់ដំបង',
         tagline: 'Cambodia\'s rice bowl with colonial charm',
-        coverImg: "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2020-05-02-09-08-00am.jpg",
+        coverImg: "https://www.asiakingtravel.com/images/thumbs/2025/05/20099/484485091-954347766728937-8962258597941090426-n_1296x730xcrop.webp",
         detailImg: "https://www.cambodiatourpackage.com/uploads/tours/images/siem-reap-battambang-phnom-penh.jpg",
         places: [
             {
@@ -435,7 +435,7 @@ Tourist Activities:
         name: 'Kampot',
         khmerName: 'កំពត',
         tagline: 'Riverside town famous for world-class pepper',
-        coverImg: "https://tourismcambodia.org/storage/uploads/category_banner/ministry-of-tourism-cambodia-2021-06-13-04-16-21pm.jpg",
+        coverImg: "https://d34vm3j4h7f97z.cloudfront.net/original/4X/8/1/e/81e31f6817402c4a711d09891d53515e0ada2571.jpeg",
         detailImg: "https://i0.wp.com/www.cambodialifestyle.com/wp-content/uploads/2024/04/Kampot6.jpg?fit=1024%2C683&ssl=1",
         places: [
             {
