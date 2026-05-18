@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Place Details - Find Your Trip</title>
+ 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@300;400;500;600&display=swap"
+        rel="stylesheet">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  
+    <main id="place-view" class="view active">
+
+      
+        <nav class="navbar" style="margin-bottom: 0;">
+            <div class="container nav-container">
+                <div class="logo-section" style="cursor: pointer;" onclick="window.location.href='index.html'">
+                    <div class="logo-icon">
+                        <i class="fa-solid fa-location-dot"></i>
+                    </div>
+                    <div class="logo-text">
+                        <span class="logo-title">Find Your Trip</span>
+                    </div>
+                </div>
+                <div class="nav-right">
+                    <a href="#about" class="nav-link">About</a>
+                    <div class="nav-guide">
+                        <i class="fa-solid fa-globe"></i>
+                        <span>Cambodia Travel Guide</span>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        
+        <div class="place-hero-container container">
+            <div class="place-hero" id="place-hero">
+                
+                <div class="place-hero-bg"></div>
+                
+                <div class="place-hero-content">
+                    <a href="#" class="back-link" id="back-to-province">
+                        <i class="fa-solid fa-arrow-left"></i> Back to <span id="back-province-name">Province</span>
+                    </a>
+
+                    <div class="place-pin">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span id="place-province-label">Province • ខេត្ត</span>
+                    </div>
+
+                    <h1 class="place-hero-title" id="place-name">Loading...</h1>
+                    <h2 class="place-hero-khmer" id="place-khmer-name">កំពុងផ្ទុក...</h2>
+                    <p class="place-hero-tagline" id="place-short-desc">Short description</p>
+                </div>
+            </div>
+        </div>
+
+       
+        <section class="about-section container">
+            <div class="about-content">
+                <h3 class="about-heading">
+                    <i class="fa-solid fa-circle-info about-icon"></i> About This Place
+                </h3>
+                <p class="about-text" id="place-history">
+                    Loading detailed history...
+                </p>
+            </div>
+        </section>
+
+    
+        <section id="contact" class="contact-section">
+            <div class="container">
+                <div class="contact-box">
+                    <h2 class="contact-title">Contact Information</h2>
+                    <div class="contact-grid">
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fa-regular fa-envelope"></i>
+                            </div>
+                            <div class="contact-details">
+                                <h3>Email</h3>
+                                <p>yourname@gmail.com</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fa-solid fa-phone"></i>
+                            </div>
+                            <div class="contact-details">
+                                <h3>Phone</h3>
+                                <p>012-xxx-xxx</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fa-solid fa-location-dot"></i>
+                            </div>
+                            <div class="contact-details">
+                                <h3>Location</h3>
+                                <p>Phnom Penh, Cambodia</p>
+                            </div>
+                        </div>
+                        <div class="contact-item">
+                            <div class="contact-icon">
+                                <i class="fa-solid fa-globe"></i>
+                            </div>
+                            <div class="contact-details">
+                                <h3>Social Media</h3>
+                                <div class="social-links">
+                                    <a href="#"><i class="fa-brands fa-facebook-f"></i></a>
+                                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <footer>
+            <div class="container">
+                <p> Find Your Trip discover Cambodia.</p>
+            </div>
+        </footer>
+    </main>
+
+    
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
